@@ -17,7 +17,8 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react"
+    // "no-restricted-globals": false,
+    "jsx": "react",
   },
   "include": [
     "src"
